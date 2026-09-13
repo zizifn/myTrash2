@@ -13,6 +13,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@mytrash2/shared": "*",
     "@tanstack/react-router": "^1.170.36",
     "@tanstack/react-start": "^1.168.53",
     "react": "^19.3.0",
